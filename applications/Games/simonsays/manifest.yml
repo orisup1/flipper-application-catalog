@@ -1,0 +1,31 @@
+appid: simonsays
+name: Simon Says
+fap_version: "1.0"
+
+repository: https://github.com/orisup1/flipper-simon_says
+commit_sha: a376768446396fe7c8594c3015b8904b4c3603ce
+
+category: Games
+
+icon: src/simon_says_logo.png
+screenshots:
+  - screenshots/ss1.png
+  - screenshots/ss2.png
+
+readme: README.md
+changelog: changelog.md
+
+license: GPL-3.0-or-later
+
+author: Ori Supino
+email: ori@supino.org
+
+description: >
+  Simon Says game for Flipper Zero. Use the buttons to repeat the sequence.
+
+keywords:
+  - game
+  - simon says
+  - flipper zero
+  - fun
+  - memory
